@@ -1,6 +1,6 @@
 {
   "name": "jdsl",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The marvelous JSON-based Domain Specific Language",
   "main": "dist/index.js",
   "bin": "dist/index.js",
