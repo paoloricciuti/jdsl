@@ -54,7 +54,7 @@ program
 │    https://www.youtube.com/watch?v=QwUPs5N9I6I    │
 │                                                   │
 └───────────────────────────────────────────────────┘
-I promise it's not a rickroll and you wont me disappointed.`);
+I promise it's not a rickroll and you wont be disappointed.`);
   });
 
 program.parse();
