@@ -1,0 +1,34 @@
+{
+  "name": "jdsl",
+  "version": "1.0.0",
+  "description": "The marvelous JSON-based Domain Specific Language",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paoloricciuti/jdsl.git"
+  },
+  "keywords": [
+    "jdsl",
+    "tom",
+    "genious",
+    "genius",
+    "theprimeagen"
+  ],
+  "author": "Tom the genious",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paoloricciuti/jdsl/issues"
+  },
+  "homepage": "https://github.com/paoloricciuti/jdsl#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "commander": "^10.0.1"
+  }
+}
